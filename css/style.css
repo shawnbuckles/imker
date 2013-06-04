@@ -105,83 +105,70 @@ section {
 
 /* sections */
 
-.aanhef {
-    background: #CCC url('../img/aanhef.png') no-repeat center 85%;
+.aandachttrekkers {
+    background: #D6A316 url('../img/aanhef.png') no-repeat center 85%;
     padding: 240px 0;
+    text-align: center;
 }
 
-.aanhef h1 {
+.aandachttrekkers h1 {
     line-height: 1em;
     color: #222;
 }
 
 /* ---------------------- */
 
-.intro {
+.schedelwespen {
+    background: #F1ECDF;
     clear: both;
 }
 
-.intro h2 {
-    font-size: 4em;
+.schedelwespen h2 {
     margin-bottom: 0;
 }
 
-.intro h3 {
+.schedelwespen h3 {
     color: #036564;
     margin: 2em 0 0 0;
     font-size: 3em;
 }
-
-.intro blockquote {
+-
+.schedelwespen blockquote {
     color: #222;
 }
 
 /* ---------------------- */
 
-.conclusie {
-    clear: both;
+.luisteren {
+    background: #D6A316;
 }
 
-/* ---------------------- */
-
-.binnen {
-    background: #036564;
-}
-
-.binnen h1 {
+.luisteren h1 {
     text-align: left;
-    line-height: .8em;
+    line-height: 1.4em;
     font-size: 4em;
-    color: #f2f2f2;
+    color: #222;
 }
 
-.binnen p {
+.luisteren p {
     color: #f2f2f2;
     font-size: 1em;
 }
 
 /* ---------------------- */
 
-.daadwerkelijk {
-    background: #033649 url('../img/aanhef.png') no-repeat center 88%;
-}
-
-.daadwerkelijk blockquote {
-    line-height: 1.2em;
-    color: white;
-    padding: 60px 0 ;
+.babys {
+    background: #D4C9AD;
 }
 
 /* ---------------------- */
 
-.proloog {
-    background: #f2f2f2;
+.imker {
+    background: #D4C9AD;
 }
 
-/* ---------------------- */
-
-.einde h1 {
-    color: #033649;
+.imker h1 {
+    color: black;
     text-align: left;
     margin-top: 0;
 }
@@ -189,6 +176,6 @@ section {
 /* ---------------------- */
 
 .footer {
-    background: #CCC;
+    background: #F1ECDF;
     color: #222;
 }
